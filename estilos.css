@@ -1,0 +1,45 @@
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block;
+}
+
+body {
+    text-align: center;
+}
+
+.agrupar {
+    background-color: gray;
+    width: 960px;
+    margin: auto;
+    padding: 50px;
+}
+
+.header {
+    background-color: hotpink;
+    margin: auto;
+    padding: 10px;
+}
+
+.navegacion {
+    background-color: lightpink;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.navegacion li {
+    list-style: none;
+    font: bold 15px verdana;
+    display: inline-block;
+
+}
